@@ -5,6 +5,9 @@
 [submodule "CTE"]
 	path = CTE
 	url = https://github.com/cran/CTE
+[submodule "MRgrowth"]
+	path = MRgrowth
+	url = https://github.com/cran/MRgrowth
 [submodule "SNMA"]
 	path = SNMA
 	url = https://github.com/cran/SNMA
